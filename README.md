@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on open UI Projects.
-- 📫 How to reach me ? just connect shubhampatil01021998@gmail.com
+- 📫 How to reach me ? just connect through mail -> shubhampatil01021998@gmail.com
 
 <!---
 meshubhu/meshubhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
