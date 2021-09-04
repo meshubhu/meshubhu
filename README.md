@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meshubhu
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in Front End Development and Back End Developement
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open UI Projects.
 - 📫 How to reach me ? just connect through mail -> shubhampatil01021998@gmail.com
 
